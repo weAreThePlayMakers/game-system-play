@@ -1,0 +1,105 @@
+{
+  "id": "b1539181072b32a4e2c205d3e30e0cf8",
+  "schema": [
+    "substance-article",
+    "0.5.0"
+  ],
+  "nodes": {
+    "document": {
+      "id": "document",
+      "type": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "license": "licence",
+      "guid": "b1539181072b32a4e2c205d3e30e0cf8",
+      "creator": "",
+      "title": "README.",
+      "authors": [
+        "contributor_9dc0802767943c613c45c5b7cf35b4ac"
+      ],
+      "abstract": "",
+      "created_at": "2015-02-04T19:09:25.787Z",
+      "updated_at": "2015-02-04T19:12:39.567Z",
+      "published_on": "2015-02-04T19:09:25.788Z"
+    },
+    "cover": {
+      "id": "cover",
+      "type": "cover",
+      "authors": []
+    },
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "cover",
+        "text1"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": []
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": []
+    },
+    "remarks": {
+      "type": "view",
+      "id": "remarks",
+      "nodes": []
+    },
+    "errors": {
+      "type": "view",
+      "id": "errors",
+      "nodes": []
+    },
+    "info": {
+      "type": "view",
+      "id": "info",
+      "nodes": [
+        "publication_info",
+        "contributor_9dc0802767943c613c45c5b7cf35b4ac"
+      ]
+    },
+    "text1": {
+      "type": "text",
+      "id": "text1",
+      "content": ""
+    },
+    "publication_info": {
+      "id": "publication_info",
+      "type": "publication_info"
+    },
+    "license": {
+      "type": "license",
+      "id": "license",
+      "name": "Creative Commons Attribution License",
+      "code": "cc-by",
+      "version": "3.0",
+      "description": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.",
+      "url": "http://creativecommons.org/licenses/by/3.0/us/"
+    },
+    "contributor_9dc0802767943c613c45c5b7cf35b4ac": {
+      "type": "contributor",
+      "id": "contributor_9dc0802767943c613c45c5b7cf35b4ac",
+      "source_id": "",
+      "name": "rafszul",
+      "role": "author",
+      "description": "fool - licence expired - turned outlaw - under the radar - industrial \nespionage - running with the wolves - illicit digital activities - \npossessed with fire",
+      "image": "contributor_9dc0802767943c613c45c5b7cf35b4ac.jpg",
+      "email": "",
+      "contribution": ""
+    },
+    "contributor_9dc0802767943c613c45c5b7cf35b4ac.jpg": {
+      "type": "file",
+      "id": "contributor_9dc0802767943c613c45c5b7cf35b4ac.jpg",
+      "version": 1,
+      "content_type": "image/jpeg"
+    }
+  }
+}
